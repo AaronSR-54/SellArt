@@ -1,0 +1,6 @@
+[submodule "SellArt-Repository"]
+	path = SellArt-Repository
+	url = https://github.com/AaronSR-54/SellArt-Repository.git
+[submodule "SellArt-Api"]
+	path = SellArt-Api
+	url = https://github.com/AaronSR-54/SellArt-Api.git
