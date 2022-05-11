@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "SellArt-Api"
+			"path": "SellArt-Repository"
 		},
 		{
-			"path": "SellArt-Repository"
+			"path": "SellArt-Api"
 		}
 	],
 	"settings": {}
